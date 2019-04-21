@@ -20,16 +20,16 @@ destination: public
 highlighter: rouge
 safe: false
 
-title: SHUNMIAN
+title: Tao Lele
 description: Stylish Jekyll Theme
-disqus: shunmianjohnson # add disqus short name here
+disqus: Tao Lele # add disqus short name here
 author:
-  name: Shunmian
-  email: shunmian@gmail.com
+  name: Tao Lele
+  email: kiss5jenny@gmail.com
   github: shunmian
-  twitter: Wanderl29817400
-  bio: The only programmers in a position to see all the differences in power between the various languaPs are those who understand the most powerful one.
-  email_md5: 02eefecba7f0b21939d12a37f94bf5df
+  twitter: 
+  bio: Fashion is Identity
+  email_md5: 59424d7b03e8a932aa65d991294d8ab0
 
 feed:
   path: feed.xml
