@@ -22,7 +22,8 @@ safe: false
 
 title: Tao Lele
 description: Stylish Jekyll Theme
-disqus: Tao Lele # add disqus short name here
+disqus: blog-v2tvzqcwyy # add disqus short name here
+
 author:
   name: Tao Lele
   email: kiss5jenny@gmail.com
