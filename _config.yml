@@ -38,3 +38,4 @@ categories_path: categories.html
 tags_path: tags.html
 
 url: http://shunmian.github.io/Jenny
+baseurl: ""
