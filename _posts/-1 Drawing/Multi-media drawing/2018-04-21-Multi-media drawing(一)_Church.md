@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Chinese Festival by color pencil  
+title: Multi-media drawing (一)：Watercolor
 categories: [-1 Drawing]
-tags: [color pencil]
+tags: [Charcoal & coffe]
 number: [-10.1]
 fullview: false
-shortinfo: This is the first attempt by using color pencil to show  three types of texture in chinese festival categories.
+shortinfo: This is a first attempt using finger print with charcoal powder to draw my portrait i. The reason to choose this church is to learn mixing traditional tool and creative tool.
 ---
 目录
 {:.article_content_title}
@@ -21,7 +21,10 @@ markdown
 ## 1 Introduction
 
 {: .img_middle_hg}
-![Chinese Mid-Autumn Festival]({{site.url}}/assets/images/posts/-1 Drawing/-1.2 Color Pencil/2018-04-22-Chinese Mid-Autumn Festival/Chinese Mid-Autumn Festival.jpeg)
+![Church](/assets/images/-1 Drawing/Multi-media drawing-1.1 Watercolor.1/2018-04-21-Church/Church.jpeg)
+
+
+
 This is the St.Andrews church located in TST Hong Kong.
 
 This is an unordered list:

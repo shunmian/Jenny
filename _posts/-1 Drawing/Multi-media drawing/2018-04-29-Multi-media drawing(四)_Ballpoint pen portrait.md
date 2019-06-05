@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portrait by Ballpoint Pen 
+title: Multi-media drawing (四)：ballpoint pen
 categories: [-1 Drawing]
 tags: [Ballpoint]
 number: [-10.1]

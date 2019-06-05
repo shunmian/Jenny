@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portrait by Charcoal& Coffee media 
+title: Multi-media drawing (三)：charcoal powder with finger print
 categories: [-1 Drawing]
 tags: [Charcoal]
 number: [-10.1]
