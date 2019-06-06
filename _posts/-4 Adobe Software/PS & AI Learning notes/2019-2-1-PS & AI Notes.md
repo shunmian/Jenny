@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe Software (一)： PS & AI Notes
-categories: [-1 Computer Art]
+categories: [-2 Computer Art]
 tags: [Ballpoint]
 number: [-10.1]
 fullview: false
