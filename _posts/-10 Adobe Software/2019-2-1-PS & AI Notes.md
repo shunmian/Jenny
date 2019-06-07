@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe Software： PS & AI Notes
-categories: [-2 Computer Art]
+categories: [-10 Computer Art]
 tags: [Photoshop, Illustrator]
 number: [-10.1]
 fullview: false

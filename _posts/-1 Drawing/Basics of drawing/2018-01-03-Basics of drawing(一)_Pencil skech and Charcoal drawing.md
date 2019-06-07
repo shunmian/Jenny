@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basics Drawing (一)： Pencil Sketch and Charcoal Drawing
-categories: [-1 Drawing]
+categories: [-01 Drawing]
 tags: [Ballpoint]
 number: [-10.1]
 fullview: false

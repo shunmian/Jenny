@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pointlism
-categories: [-2 Color Theory]
+categories: [-02 Color Theory]
 tags: [Marker Pen]
 number: [-3.1]
 fullview: false

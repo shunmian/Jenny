@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced Drawing (一)： Highheel Shoe
-categories: [-1 Drawing]
+categories: [-01 Drawing]
 tags: [sketch, outline, hatching, ]
 number: [-10.1]
 fullview: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi-media drawing couse in SCAD
-categories: [-1 Drawing]
+categories: [-01 Drawing]
 tags: [Watercolor, Color Pencil, Charcoal, Ballpoint Pen]
 number: [-1.1]
 fullview: false

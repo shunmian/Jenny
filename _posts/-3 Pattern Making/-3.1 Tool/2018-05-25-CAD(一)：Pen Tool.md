@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAD(一)：Pen Tool
-categories: [-3 Patttern Making]
+categories: [-03 Patttern Making]
 tags: [CAD]
 number: [-10.1]
 fullview: false
