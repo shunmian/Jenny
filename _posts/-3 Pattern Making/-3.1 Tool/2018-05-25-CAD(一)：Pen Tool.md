@@ -1,12 +1,11 @@
 ---
----
 layout: post
-title: CAD 工具使用
-categories: [-2 Patttern Making]
-tags: [Pattern Making]
+title: CAD(一)：Pen Tool
+categories: [-3 Patttern Making]
+tags: [CAD]
 number: [-10.1]
 fullview: false
-shortinfo: This is a first attempt using watercolor to draw the church in TST Hong Kong. The reason to choose this church is to learn the 3D perspective of architecture.
+shortinfo: CAD basics pen tool application.
 ---
 目录
 {:.article_content_title}
@@ -17,15 +16,14 @@ shortinfo: This is a first attempt using watercolor to draw the church in TST Ho
 ---
 {:.hr-short-left}
 
-markdown
 
 ## 1 Introduction
 
-智能笔使用方法
-1.
+### 1.1 智能笔使用方法
+
 
 {: .img_middle_hg}
-![1]({{site.url}}/assets/images/-2 Pattern Making/-2.1.1Tool/2018-05-25-CAD-pen tool & 8 piece skirt/新文档 2019-06-06 22.13.15_5.jpg)
+![pen-usage-instruction]({{site.url}}/assets/images/-3 Pattern Making/-2.1 Tool/2018-05-25-CAD(一)：Pen Tool/pen-usage-instruction.jpg)
 
 智能笔 画任意直线，直线和45度角，可以用鼠标右键选择曲线还是直线
 线段增减-click line-shift+right click -input the number
@@ -33,11 +31,14 @@ markdown
  copy&paste：shift +select 选择，再shift +right click，出现*2 的手势
  两条不平行线相交：select，right click
 
-2.
 
+
+### 1.2 Skirt
+
+#### 1.2.1 8 Piece Skirt
 
 {: .img_middle_hg}
-![1]({{site.url}}/assets/images/-2 Pattern Making/-2.1.1Tool/2018-05-25-CAD-pen tool & 8 piece skirt/新文档 2019-06-06 22.13.15_2.jpg)
+![1]({{site.url}}/assets/images/-3 Pattern Making/-2.1 Tool/2018-05-25-CAD(一)：Pen Tool/8-piece-skirt.jpg)
 
 腰：68/8/2=4.25
 center front low 0.25cm
@@ -53,14 +54,24 @@ copy&reflect：shift+select，shift right click。and left click the center，an
 
 waist band 长68+3（预位），宽6cm
 
+#### 1.2.2 Circular Skirt
 
-## 2 Summary
+{: .img_middle_hg}
+![1]({{site.url}}/assets/images/-3 Pattern Making/-2.1 Tool/2018-05-25-CAD(一)：Pen Tool/circular-skirt.jpg)
 
+r=w/2*3.14=68/2*3.14=10.8
+先画半径上下。用弧形工具，点一下start point 和 end point，一起弧线。
+再继续画裙长60上下，用弧线工具。
+若想要画全部裙子，可用copy&paste。按shortcut “G”
+出现手势，右键看图标变红色，开始移动要copy的pattern。
 
+Semi-flared skirt
+
+先画W&Hip，鼠标select ，right click，两线相交。在腰中点做直角。
+画弧线，
 
 ## Reference
 
-- [Watercolor drawing]
 
 
 
