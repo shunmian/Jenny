@@ -46,12 +46,12 @@ shortinfo: 本文是对自己高跟鞋素描的一个总结。
 下图就是在原照片打的格子
 
 {: .img_middle_lg}
-![photo网格]({{site.url}}/assets/images/posts/-1 Drawing/-1.3 Sketch/2018-04-22-Highheel/photo网格.jpeg)
+![photo网格]({{site.url}}/assets/images/-1 Drawing/Advanced drawing/2018-04-22-Highheel/drawing网格.jpeg)
 
 可以参考打好各自的照片，找一张素描纸，根据照片长宽比例打上相应的格子，定位上下左右的点。这一步就好像照抄一样，同时也锻炼我们的观察能力，观察每一个点在一条线的几分之几，一般二分之一比较好找，可以在细分。然后连接下面的定点，就有了下图的照片
 
 {: .img_middle_lg}
-![drawing网格]({{site.url}}/assets/images/posts/-1 Drawing/-1.3 Sketch/2018-04-22-Highheel/drawing网格.jpeg)
+![drawing网格]({{site.url}}/assets/images/-1 Drawing/Advanced drawing/2018-04-22-Highheel/drawing网格.jpeg)
 
 
 
@@ -80,12 +80,12 @@ shortinfo: 本文是对自己高跟鞋素描的一个总结。
 第一幅画，是我在没有老师指导画的，铺色用的普通铅笔，没有很黑，上色没有按照一个方向排线，非常不均匀，所以接下来的画也很没有信心，就画的比较潦草。
 
 {: .img_middle_hg}
-![HIGHHEEL_SHOE_1]({{site.url}}/assets/images/posts/-1 Drawing/-1.3 Sketch/2018-04-22-Highheel/HIGHHEEL_SHOE_1.jpeg)
+![HIGHHEEL_SHOE_1]({{site.url}}/assets/images/-1 Drawing/Advanced drawing/2018-04-22-Highheel/HIGHHEEL_SHOE_1.jpeg)
 
 但是，由于对自己的要求，重新看了老师的教学视频和建议，重新画了下面的画
 
 {: .img_middle_hg}
-![HIGHHEEL_SHOE_2]({{site.url}}/assets/images/posts/-1 Drawing/-1.3 Sketch/2018-04-22-Highheel/HIGHHEEL_SHOE_2.jpeg)
+![HIGHHEEL_SHOE_2]({{site.url}}/assets/images/-1 Drawing/Advanced drawing/2018-04-22-Highheel/HIGHHEEL_SHOE_2.jpeg)
 
 
 
