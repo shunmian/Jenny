@@ -48,6 +48,9 @@ shortinfo: 本文是对自己高跟鞋素描的一个总结。
 {: .img_middle_lg}
 ![photo网格]({{site.url}}/assets/images/-1 Drawing/Advanced drawing/2018-04-22-Highheel/drawing网格.jpeg)
 
+
+
+
 可以参考打好各自的照片，找一张素描纸，根据照片长宽比例打上相应的格子，定位上下左右的点。这一步就好像照抄一样，同时也锻炼我们的观察能力，观察每一个点在一条线的几分之几，一般二分之一比较好找，可以在细分。然后连接下面的定点，就有了下图的照片
 
 {: .img_middle_lg}
